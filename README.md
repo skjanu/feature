@@ -1,2 +1,3 @@
 # hello-word
-my name is swarna priya and i am puring b.tech final year from civil department
+my name is swarna priya
+i am puring b.tech final year from civil department
